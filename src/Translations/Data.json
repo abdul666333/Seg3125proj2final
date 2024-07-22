@@ -1,0 +1,39 @@
+{
+    "english": {
+      "title": "Golden Knights",
+      "book_button": "Book a session",
+      "club_news": "Club News",
+      "news_1": "Golden Knights vs Red Dragons coming soon!",
+      "read_more": "Read More",
+      "getting_started": "Getting Started",
+      "help_header": "To help you get started, you can choose to book a practice session to explore your interests, or select a program that fits your needs, age, and skills.",
+      "faq_link": "Please read our FAQ if you are still unsure how to get started here",
+      "popular_programs": "Popular Programs",
+      "upcoming_events": "Upcoming Events",
+      "event_date": "Date",
+      "event_details": "Details",
+      "beginners_u8_12": "Beginners U8-12",
+      "professional_u16_u19": "Professional U16-U19",
+      "goalkeeper_training": "Goalkeeper Training",
+      "all_age_training": "All Age Training Session"
+    },
+    "french": {
+      "title": "Chevaliers d'Or",
+      "book_button": "Réserver une session",
+      "club_news": "Nouvelles du club",
+      "news_1": "Chevaliers d'Or contre Dragons Rouges bientôt!",
+      "read_more": "Lire la suite",
+      "getting_started": "Commencer",
+      "help_header": "Pour vous aider à commencer, vous pouvez choisir de réserver une session d'entraînement pour explorer vos intérêts, ou sélectionner un programme qui correspond à vos besoins, âge et compétences.",
+      "faq_link": "Veuillez lire notre FAQ si vous n'êtes toujours pas sûr de savoir comment commencer ici",
+      "popular_programs": "Programmes Populaires",
+      "upcoming_events": "Événements à Venir",
+      "event_date": "Date",
+      "event_details": "Détails",
+      "beginners_u8_12": "Débutants U8-12",
+      "professional_u16_u19": "Professionnel U16-U19",
+      "goalkeeper_training": "Entraînement des Gardiens",
+      "all_age_training": "Session d'Entraînement Tous Âges"
+    }
+  }
+  

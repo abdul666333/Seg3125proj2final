@@ -1,0 +1,48 @@
+
+  
+  .sidebari {
+    color: white;
+    
+  }
+
+  .sidebari:hover {
+    background-color: gold;
+    color: black;
+    text-decoration: none;
+  }
+  
+
+  .Filter{
+    color: white;
+  }
+  
+  .bronzemedal{
+    color: goldenrod;
+  }
+  
+  .silvermedal{
+    color: silver;
+
+  }
+
+  .goldmedal{
+    color: gold;
+  }
+
+  .tree{
+    color: green;
+  }
+
+  .sun{
+    color: yellow;
+  }
+
+  .snow{
+    color: white;
+  }
+
+  .dollar{
+    color: green;
+  }
+
+ 
