@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Seg3125proj2final/static/css/main.f2c9de96.css",
+    "main.js": "/Seg3125proj2final/static/js/main.62d2ae68.js",
+    "static/media/soccer_home.png": "/Seg3125proj2final/static/media/soccer_home.54020a18387bfb5f05d1.png",
+    "static/media/goalkeeper.png": "/Seg3125proj2final/static/media/goalkeeper.655e09e5add8e59597d7.png",
+    "static/media/adults.png": "/Seg3125proj2final/static/media/adults.43e8099d18b946480c83.png",
+    "static/media/training.png": "/Seg3125proj2final/static/media/training.090cae06423b58dd4f2f.png",
+    "static/media/staffImage3.png": "/Seg3125proj2final/static/media/staffImage3.ffabddab58f10c72be92.png",
+    "static/media/donor1.png": "/Seg3125proj2final/static/media/donor1.dcef7aeeaffcfac3300e.png",
+    "static/media/donor2.png": "/Seg3125proj2final/static/media/donor2.e0865e3d8230420b59b5.png",
+    "static/media/trainingsession.png": "/Seg3125proj2final/static/media/trainingsession.0fbcbf7794ac657766f1.png",
+    "static/media/soccer_about.png": "/Seg3125proj2final/static/media/soccer_about.8df6ec955a278f5b85ba.png",
+    "static/media/kids.png": "/Seg3125proj2final/static/media/kids.bc9c57f6d01c5021102d.png",
+    "static/media/donor5.png": "/Seg3125proj2final/static/media/donor5.ae91301e6041ffbe4ee2.png",
+    "static/media/tour.png": "/Seg3125proj2final/static/media/tour.9e4985e984a772b01d14.png",
+    "static/media/staffImage2.png": "/Seg3125proj2final/static/media/staffImage2.b988822898b074c6a2e4.png",
+    "static/media/bootstrap-icons.woff?": "/Seg3125proj2final/static/media/bootstrap-icons.1ac3894cba781f40481b.woff",
+    "static/media/staffImage1.png": "/Seg3125proj2final/static/media/staffImage1.9afef112ba8037f11e5c.png",
+    "static/media/bootstrap-icons.woff2?": "/Seg3125proj2final/static/media/bootstrap-icons.e3e8f0df3216e6c72c48.woff2",
+    "static/media/logo.png": "/Seg3125proj2final/static/media/logo.9b61222981f5fc0ec425.png",
+    "static/media/donor4.png": "/Seg3125proj2final/static/media/donor4.7760ef9e445f6020fe17.png",
+    "static/media/donor3.png": "/Seg3125proj2final/static/media/donor3.ad9c1630a3cc249d0b57.png",
+    "index.html": "/Seg3125proj2final/index.html",
+    "main.f2c9de96.css.map": "/Seg3125proj2final/static/css/main.f2c9de96.css.map",
+    "main.62d2ae68.js.map": "/Seg3125proj2final/static/js/main.62d2ae68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c9de96.css",
+    "static/js/main.62d2ae68.js"
+  ]
+}
